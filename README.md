@@ -1,7 +1,8 @@
 # Deep Learning Examples
-Still working on it, not finished yet
 
-It shouldn't be a reference for your model
+Still working on it, not finished yet!
+
+It shouldn't be a reference for your model!
 
 The purpose of this project is to create model finds wine quality with using all possible techniques and compare with neural networks.
 
