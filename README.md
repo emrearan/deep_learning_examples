@@ -1,2 +1,4 @@
 # deep_learning_examples
-Some Deep Learning Examples
+Still working on it, not finished yet
+
+It shouldn't be a reference for your model
